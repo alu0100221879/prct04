@@ -1,0 +1,2 @@
+1. ¿Que es rvm (Ruby Version Manager)?
+RVM es programa gestor que permite manejar los intérpretes de Ruby instalados, como ver las versiones instaladas o elegir cuál usar, entre otras cosas.
